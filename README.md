@@ -1,7 +1,7 @@
-# Hi, I’m Dhruv 👋
+# Hi, I’m Dhruv 
 
-🎓 B.Tech (Information Technology) Student | Maharashtra, India  
-💻 Tech Enthusiast | Video Editor | Docker | CI/CD   
+B.Tech (Information Technology) Student | Maharashtra, India  
+Tech Enthusiast | Video Editor | Docker | CI/CD   
 
 ---
 
@@ -30,7 +30,7 @@ I am an IT undergraduate focused on building strong technical fundamentals and a
 ---
 
 ## Connect
-- **LinkedIn:** www.linkedin.com/in/dhruv-kasar-b69793391  
+- **LinkedIn:** https://www.linkedin.com/in/dhruv-kasar-b69793391/
 
 ---
 
