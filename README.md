@@ -31,7 +31,7 @@ I am an IT undergraduate focused on building strong technical fundamentals and a
 
 ## Connect
 - **LinkedIn:** https://www.linkedin.com/in/dhruv-kasar-b69793391/
-- **Portfolio:**https://dhruvkasar.vercel.app/
+- **Portfolio:** https://dhruvkasar.vercel.app/
 
 ---
 
